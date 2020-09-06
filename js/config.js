@@ -1,7 +1,7 @@
 window._config = {
     cognito: {
         userPoolId: 'us-east-1_rUxzlj6zf', // e.g. us-east-2_uXboG5pAb
-        userPoolClientId: 'WildRydesWebApp', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
+        userPoolClientId: '3s1of6uhqmamit1nonccbka5e8', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
         region: 'us-east-1' // e.g. us-east-2
     },
     api: {
